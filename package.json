@@ -1,7 +1,7 @@
 {
   "name": "vinith-portfolio",
-  "homepage": "https://github.com/kvin-k/vinith-portfolio",
-  "version": "1.0.1",
+  "homepage": "https://kvin-k.github.io/vinith-portfolio",  
+  "version": "0.1.0",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
   "scripts": {
